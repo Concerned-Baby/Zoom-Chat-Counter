@@ -3,7 +3,7 @@ import sys
 
 class entry(object):
 	def __init__ (self, inp):
-		print(inp)
+		#print(inp)
 		self.inp = inp
 		self.time = inp.split("\t")[0]
 		rest = inp.split("\t")[1]
@@ -25,12 +25,11 @@ class entry(object):
 		return self.inp
 
 
-
-
 def run(inFileName, outFileName):
 	inFile = open(inFileName, "r")
 	outFile = open(outFileName, "w")
 	studentDict = {}
+	text = ""
 	for inp in inFile.readlines():
 		parsed = entry(inp)
 		name = (parsed.getLastName().ljust(25, " ") + " " + parsed.getFirstName().ljust(25, " ")).lower()
@@ -41,8 +40,10 @@ def run(inFileName, outFileName):
 	for student in sorted(studentDict.keys()):
 		messages = studentDict[student].split("<[*}:>")
 		outFile.write((student.ljust(40, " ") + str(len(messages)) + "\n"))
+		text += (student.ljust(40, " ") + "\n")
 		for message in messages:
-			outFile.write("\t" + message)
+			text += ("\t" + message)
+	outFile.write("\n\n" + text)
 
 if __name__ == "__main__":
 	run(sys.argv[1], sys.argv[2])
