@@ -1,24 +1,26 @@
- abdelfattah              nabeel                   10
- abdi                     muha                     7
- al naimi                 hana                     11
- ali                      laila                    2
- anguiano martinez        karina                   5
- chiang                   emily                    14
- chu                      wei-ling                 5
- de la rosa acosta        yannies                  5
- fuller                   jayden                   2
- gaumont                  ryan                     17
- gonzalez                 gabriel                  1
- i                        carisa                   4
- johnson                  jaden                    3
- ortiz moreno             joshua                   13
- rivera arias             maria                    12
- rodriguez                raquel                   12
- ruano mora               gabriel                  16
- ruiz ruiz                jesus                    7
- vargas                   mia                      12
- vazquez                  robert                   14
- abdelfattah              nabeel                   
+ abdelfattah         nabeel              10
+ abdi                muha                7
+ al naimi            hana                11
+ ali                 laila               2
+ anguiano martinez   karina              5
+ chiang              emily               14
+ chu                 wei-ling            5
+ de la rosa acosta   yannies             5
+ fuller              jayden              2
+ gaumont             ryan                17
+ gonzalez            gabriel             1
+ i                   carisa              4
+ johnson             jaden               3
+ ortiz moreno        joshua              13
+ rivera arias        maria               12
+ rodriguez           raquel              12
+ ruano mora          gabriel             16
+ ruiz ruiz           jesus               7
+ vargas              mia                 12
+ vazquez             robert              14
+
+
+ abdelfattah         nabeel              
 	13:09:46	 From Nabeel Abdelfattah : 4 and 5
 	13:11:33	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : 20
 	13:14:01	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : 1
@@ -29,7 +31,7 @@
 	13:27:09	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : x+1
 	13:28:38	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : x2-3
 	13:30:42	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : x+1+2x-3
- abdi                     muha                     
+ abdi                muha                
 	13:10:57	 From Muha Abdi to Wei-Ling Chu (Privately) : the length is 4 and the width is 5
 	13:11:31	 From Muha Abdi to Wei-Ling Chu (Privately) : 20
 	13:13:43	 From Muha Abdi to Wei-Ling Chu (Privately) : 1
@@ -37,7 +39,7 @@
 	13:16:37	 From Muha Abdi to Wei-Ling Chu (Privately) : x
 	13:22:22	 From Muha Abdi to Wei-Ling Chu (Privately) : 4x^8 + 1
 	13:24:30	 From Muha Abdi to Wei-Ling Chu (Privately) : -x^2+ 1
- al naimi                 hana                     
+ al naimi            hana                
 	13:02:12	 From Hana Al Naimi to Wei-Ling Chu (Privately) : it was not letting me join the meeting for some reason thats why i am a min late
 	13:10:07	 From Hana Al Naimi to Wei-Ling Chu (Privately) : lenght is 5 and width is 4
 	13:11:31	 From Hana Al Naimi to Wei-Ling Chu (Privately) : 20 is the area
@@ -49,16 +51,16 @@
 	13:27:22	 From Hana Al Naimi to Wei-Ling Chu (Privately) : -x^2+1+3x
 	13:28:51	 From Hana Al Naimi to Wei-Ling Chu (Privately) : 2x^2
 	13:30:10	 From Hana Al Naimi to Wei-Ling Chu (Privately) : x^2+x-2
- ali                      laila                    
+ ali                 laila               
 	13:10:01	 From Laila Ali to Wei-Ling Chu (Privately) : 4 and 5
 	13:22:44	 From Laila Ali to Wei-Ling Chu (Privately) : i think 4x 2+ 3x +1
- anguiano martinez        karina                   
+ anguiano martinez   karina              
 	13:09:45	 From Karina Anguiano Martinez to Wei-Ling Chu (Privately) : length is 4 width is 5
 	13:12:24	 From Karina Anguiano Martinez to Wei-Ling Chu (Privately) : 20
 	13:13:54	 From Karina Anguiano Martinez to Wei-Ling Chu (Privately) : 1
 	13:15:10	 From Karina Anguiano Martinez to Wei-Ling Chu (Privately) : 5 x 5
 	13:25:07	 From Karina Anguiano Martinez to Wei-Ling Chu (Privately) : -x2+-x2+-1+-x ???
- chiang                   emily                    
+ chiang              emily               
 	12:59:02	 From Emily Chiang to Wei-Ling Chu (Privately) : im kind of having a bad hair day so can i keep my camera off for class?
 	13:09:37	 From Emily Chiang to Wei-Ling Chu (Privately) : 4 and 5
 	13:11:36	 From Emily Chiang to Wei-Ling Chu (Privately) : 20 units squared
@@ -73,22 +75,22 @@
 	13:28:31	 From Emily Chiang to Wei-Ling Chu (Privately) : 2x^2 - 2x - 3
 	13:30:35	 From Emily Chiang to Wei-Ling Chu (Privately) : x^2 + x - 2
 	13:54:05	 From Emily Chiang to Wei-Ling Chu (Privately) : 8 + 6 = 14
- chu                      wei-ling                 
+ chu                 wei-ling            
 	12:59:11	 From Wei-Ling Chu to Emily Chiang (Privately) : Yes no problem
 	13:31:10	 From Wei-Ling Chu to Mia Vargas (Privately) : How about the onesies?
 	13:34:23	 From Wei-Ling Chu : https://student.desmos.com/join/g9wgm4
 	13:39:23	 From Wei-Ling Chu to Ryan Gaumont (Privately) : clearer?
 	13:54:27	 From Wei-Ling Chu to Ryan Gaumont (Privately) : yes
- de la rosa acosta        yannies                  
+ de la rosa acosta   yannies             
 	13:15:16	 From Yannies De La Rosa Acosta to Wei-Ling Chu (Privately) : 15?
 	13:21:59	 From Yannies De La Rosa Acosta to Wei-Ling Chu (Privately) : 4x^2+3x+1
 	13:25:19	 From Yannies De La Rosa Acosta to Wei-Ling Chu (Privately) : x^2+2-x^2+x+-x+-1+2 1 i tried:(
 	13:27:12	 From Yannies De La Rosa Acosta to Wei-Ling Chu (Privately) : 3x+1
 	13:28:55	 From Yannies De La Rosa Acosta to Wei-Ling Chu (Privately) : 2x^2?
- fuller                   jayden                   
+ fuller              jayden              
 	13:12:59	 From Jayden Fuller to Wei-Ling Chu (Privately) : length is 4 and the width is 5
 	13:13:12	 From Jayden Fuller to Wei-Ling Chu (Privately) : 20 units inside
- gaumont                  ryan                     
+ gaumont             ryan                
 	13:10:16	 From Ryan Gaumont to Wei-Ling Chu (Privately) : width is 5 and length is 4?
 	13:10:26	 From Ryan Gaumont to Wei-Ling Chu (Privately) : or vice versa im not sure
 	13:13:03	 From Ryan Gaumont to Wei-Ling Chu (Privately) : area is 20 because its telling us that it is 4 units by 5 units, meaning that for every row of 4 tiles, there are 5 in that row, so 4 row of 5 or 4x5 = 20
@@ -106,18 +108,18 @@
 	13:51:52	 From Ryan Gaumont to Wei-Ling Chu (Privately) : how do you do that with blocks???
 	13:53:30	 From Ryan Gaumont to Wei-Ling Chu (Privately) : so you just type in the answer of the simplfied equation?
 	13:54:31	 From Ryan Gaumont to Wei-Ling Chu (Privately) : ok
- gonzalez                 gabriel                  
+ gonzalez            gabriel             
 	14:28:04	 From Gabriel Gonzalez : is late work alowed? i was checking rn and have alot of hw not done
- i                        carisa                   
+ i                   carisa              
 	13:09:56	 From Carisa Ito to Wei-Ling Chu (Privately) : length: 5
 	13:10:01	 From Carisa Ito to Wei-Ling Chu (Privately) : width: 4
 	13:11:29	 From Carisa Ito to Wei-Ling Chu (Privately) : 20
 	13:31:40	 From Carisa Ito to Wei-Ling Chu (Privately) : x^2 + x +2
- johnson                  jaden                    
+ johnson             jaden               
 	13:10:14	 From Jaden Johnson : 4 and 5 units
 	13:12:02	 From Jaden Johnson : 20u, 4 * 5
 	13:21:30	 From Jaden Johnson : 4x^2+3x+1
- ortiz moreno             joshua                   
+ ortiz moreno        joshua              
 	13:10:20	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : They are 4 and 5\
 	13:11:52	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : 20
 	13:14:09	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : The width of the area is 3
@@ -131,7 +133,7 @@
 	13:30:36	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : 1x^2+1x+-3
 	13:30:43	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : -2
 	13:32:18	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : ]
- rivera arias             maria                    
+ rivera arias        maria               
 	13:09:49	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : l=4 w=5
 	13:11:27	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : 20 units
 	13:12:11	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : length x width
@@ -144,7 +146,7 @@
 	13:28:54	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : x^2 + x -2
 	13:29:23	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : 2x^2 
 	13:29:29	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : -1
- rodriguez                raquel                   
+ rodriguez           raquel              
 	13:10:23	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : The length is 5 and 4 is the width
 	13:10:33	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : units*
 	13:11:40	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : 20
@@ -157,7 +159,7 @@
 	13:27:30	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : -x^2+3x+1
 	13:29:13	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : 2x^2+(-2x)+(-3)
 	13:31:06	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : x^2+x+-2
- ruano mora               gabriel                  
+ ruano mora          gabriel             
 	13:10:01	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : the 5 is the width
 	13:10:13	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : The 4 is the length
 	13:11:20	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : what
@@ -174,7 +176,7 @@
 	13:28:52	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : do we add them together
 	13:29:29	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : 2x2-3-2x
 	13:31:34	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : x2+x-2
- ruiz ruiz                jesus                    
+ ruiz ruiz           jesus               
 	13:09:51	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : 4 and 5
 	13:11:44	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : the area is 18
 	13:15:16	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : 5
@@ -182,7 +184,7 @@
 	13:28:38	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : -3x+x^2
 	13:31:12	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : 1x^2+1x+-2
 	14:11:22	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : ok bye have a good day 4
- vargas                   mia                      
+ vargas              mia                 
 	13:10:08	 From Mia Vargas to Wei-Ling Chu (Privately) : 4 & 5
 	13:11:50	 From Mia Vargas to Wei-Ling Chu (Privately) : 20
 	13:14:13	 From Mia Vargas to Wei-Ling Chu (Privately) : 1 im guessing
@@ -195,7 +197,7 @@
 	13:29:03	 From Mia Vargas to Wei-Ling Chu (Privately) : 2x^2 2-x+-3
 	13:30:55	 From Mia Vargas to Wei-Ling Chu (Privately) : x^2+1x
 	14:16:16	 From Mia Vargas to Wei-Ling Chu (Privately) : oh okay thank you
- vazquez                  robert                   
+ vazquez             robert              
 	13:09:49	 From Robert Vazquez to Wei-Ling Chu (Privately) : Length = 4
 	13:09:52	 From Robert Vazquez to Wei-Ling Chu (Privately) : Width = 5
 	13:11:40	 From Robert Vazquez to Wei-Ling Chu (Privately) : 20

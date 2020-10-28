@@ -3,7 +3,6 @@ import sys
 
 class entry(object):
 	def __init__ (self, inp):
-		#print(inp)
 		self.inp = inp
 		self.time = inp.split("\t")[0]
 		rest = inp.split("\t")[1]
@@ -17,13 +16,11 @@ class entry(object):
 	def getFirstName(self):
 		if self.name.index(" ") == -1:
 			return ""
-		else:
-			return self.name[:self.name.index(" ")]
+		return self.name[:self.name.index(" ")]
 	def getLastName(self):
 		return self.name[self.name.index(" "):]
 	def getMessage(self):
 		return self.inp
-
 
 def run(inFileName, outFileName):
 	inFile = open(inFileName, "r")
@@ -32,7 +29,7 @@ def run(inFileName, outFileName):
 	text = ""
 	for inp in inFile.readlines():
 		parsed = entry(inp)
-		name = (parsed.getLastName().ljust(25, " ") + " " + parsed.getFirstName().ljust(25, " ")).lower()
+		name = (parsed.getLastName().ljust(20, " ") + " " + parsed.getFirstName().ljust(20, " ")).lower()
 		if name in studentDict:
 			studentDict[name] += "<[*}:>" + parsed.getMessage()
 		else:
