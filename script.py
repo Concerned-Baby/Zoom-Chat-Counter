@@ -1,16 +1,15 @@
 import sys
 
-
-class entry(object):
+class entry(object): # '”' is causing issues '"'
 	def __init__ (self, inp):
 		self.inp = inp
-		self.time = inp.split("\t")[0]
-		rest = inp.split("\t")[1]
+		temp = inp.split(" ")
+		self.time = temp[0]
+		rest = temp[4]
+		for i in range(5, inp.count(" ")):
+			rest += temp[i]
 		self.message = rest.split(":")[1]
-		rest = rest.split(":")[0]
-		rest = rest.split("to")[0]
-		rest = rest.split("From")[1]
-		self.name = rest.strip()
+		self.name = temp[2] + " " +  temp[3]
 	def getcurrent(self):
 		return self.name
 	def getFirstName(self):
@@ -23,8 +22,8 @@ class entry(object):
 		return self.inp
 
 def run(inFileName, outFileName):
-	inFile = open(inFileName, "r")
-	outFile = open(outFileName, "w")
+	inFile = open(inFileName, "r", encoding="utf8")
+	outFile = open(outFileName, "w", encoding="utf8")
 	studentDict = {}
 	text = ""
 	for inp in inFile.readlines():
