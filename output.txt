@@ -1,214 +1,218 @@
- abdelfattah         nabeel              10
- abdi                muha                7
- al naimi            hana                11
- ali                 laila               2
- anguiano martinez   karina              5
- chiang              emily               14
- chu                 wei-ling            5
- de la rosa acosta   yannies             5
- fuller              jayden              2
- gaumont             ryan                17
- gonzalez            gabriel             1
- i                   carisa              4
- johnson             jaden               3
- ortiz moreno        joshua              13
- rivera arias        maria               12
- rodriguez           raquel              12
- ruano mora          gabriel             16
- ruiz ruiz           jesus               7
- vargas              mia                 12
- vazquez             robert              14
+ avanzino-perez      linda               32
+ ayala               austin              2
+ bear                scarlet             2
+ bergener            ash                 3
+ chu                 wei-ling            56
+ darosa              michael             1
+ gonzalez            jesus               18
+ haddis              nathan              1
+ joseph              nishant             3
+ linder              camden              1
+ lopez               elizabeth           1
+ luna                edgar               7
+ ochoa               naomi               4
+ ojeda               sienna              10
+ perez               jocelyn             1
+ ramirez             ever                8
+ romero              leslie              3
+ ruano               rey                 3
+ schmidt             dillon              4
+ tautolo             sianalai            4
+ thomas              ethan               3
+ yadav               aditya              5
 
 
- abdelfattah         nabeel              
-	13:09:46	 From Nabeel Abdelfattah : 4 and 5
-	13:11:33	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : 20
-	13:14:01	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : 1
-	13:15:02	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : 5
-	13:16:18	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : x
-	13:25:52	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : -x+1
-	13:26:24	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : -x2+1
-	13:27:09	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : x+1
-	13:28:38	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : x2-3
-	13:30:42	 From Nabeel Abdelfattah to Wei-Ling Chu (Privately) : x+1+2x-3
- abdi                muha                
-	13:10:57	 From Muha Abdi to Wei-Ling Chu (Privately) : the length is 4 and the width is 5
-	13:11:31	 From Muha Abdi to Wei-Ling Chu (Privately) : 20
-	13:13:43	 From Muha Abdi to Wei-Ling Chu (Privately) : 1
-	13:15:35	 From Muha Abdi to Wei-Ling Chu (Privately) : 5 x 5
-	13:16:37	 From Muha Abdi to Wei-Ling Chu (Privately) : x
-	13:22:22	 From Muha Abdi to Wei-Ling Chu (Privately) : 4x^8 + 1
-	13:24:30	 From Muha Abdi to Wei-Ling Chu (Privately) : -x^2+ 1
- al naimi            hana                
-	13:02:12	 From Hana Al Naimi to Wei-Ling Chu (Privately) : it was not letting me join the meeting for some reason thats why i am a min late
-	13:10:07	 From Hana Al Naimi to Wei-Ling Chu (Privately) : lenght is 5 and width is 4
-	13:11:31	 From Hana Al Naimi to Wei-Ling Chu (Privately) : 20 is the area
-	13:13:53	 From Hana Al Naimi to Wei-Ling Chu (Privately) : 1
-	13:15:17	 From Hana Al Naimi to Wei-Ling Chu (Privately) : width of the square is 5
-	13:16:50	 From Hana Al Naimi to Wei-Ling Chu (Privately) : its x
-	13:19:31	 From Hana Al Naimi to Wei-Ling Chu (Privately) : 4x2+3x+1
-	13:24:24	 From Hana Al Naimi to Wei-Ling Chu (Privately) : -x^2+1
-	13:27:22	 From Hana Al Naimi to Wei-Ling Chu (Privately) : -x^2+1+3x
-	13:28:51	 From Hana Al Naimi to Wei-Ling Chu (Privately) : 2x^2
-	13:30:10	 From Hana Al Naimi to Wei-Ling Chu (Privately) : x^2+x-2
- ali                 laila               
-	13:10:01	 From Laila Ali to Wei-Ling Chu (Privately) : 4 and 5
-	13:22:44	 From Laila Ali to Wei-Ling Chu (Privately) : i think 4x 2+ 3x +1
- anguiano martinez   karina              
-	13:09:45	 From Karina Anguiano Martinez to Wei-Ling Chu (Privately) : length is 4 width is 5
-	13:12:24	 From Karina Anguiano Martinez to Wei-Ling Chu (Privately) : 20
-	13:13:54	 From Karina Anguiano Martinez to Wei-Ling Chu (Privately) : 1
-	13:15:10	 From Karina Anguiano Martinez to Wei-Ling Chu (Privately) : 5 x 5
-	13:25:07	 From Karina Anguiano Martinez to Wei-Ling Chu (Privately) : -x2+-x2+-1+-x ???
- chiang              emily               
-	12:59:02	 From Emily Chiang to Wei-Ling Chu (Privately) : im kind of having a bad hair day so can i keep my camera off for class?
-	13:09:37	 From Emily Chiang to Wei-Ling Chu (Privately) : 4 and 5
-	13:11:36	 From Emily Chiang to Wei-Ling Chu (Privately) : 20 units squared
-	13:11:58	 From Emily Chiang to Wei-Ling Chu (Privately) : 5*4
-	13:14:05	 From Emily Chiang to Wei-Ling Chu (Privately) : 1
-	13:15:07	 From Emily Chiang to Wei-Ling Chu (Privately) : 5
-	13:16:08	 From Emily Chiang to Wei-Ling Chu (Privately) : any number
-	13:16:25	 From Emily Chiang to Wei-Ling Chu (Privately) : or x
-	13:21:21	 From Emily Chiang to Wei-Ling Chu (Privately) : 4x^2 + 3x + 1
-	13:24:02	 From Emily Chiang to Wei-Ling Chu (Privately) : -x^2 + 1
-	13:27:25	 From Emily Chiang to Wei-Ling Chu (Privately) : -x^2 + 3x +1
-	13:28:31	 From Emily Chiang to Wei-Ling Chu (Privately) : 2x^2 - 2x - 3
-	13:30:35	 From Emily Chiang to Wei-Ling Chu (Privately) : x^2 + x - 2
-	13:54:05	 From Emily Chiang to Wei-Ling Chu (Privately) : 8 + 6 = 14
+ avanzino-perez      linda               
+	09:00:39 From Linda Avanzino-Perez to Everyone : Por favor enciende la camera para el quiz
+	09:01:15 From Linda Avanzino-Perez to Everyone : Puedes tener un papel para notas
+	09:01:41 From Linda Avanzino-Perez to Everyone : Please turns on your camera
+	09:04:47 From Linda Avanzino-Perez to Wei-Ling Chu(Direct Message) : Where do you find the quiz?
+	09:05:40 From Linda Avanzino-Perez to Wei-Ling Chu(Direct Message) : Thanks
+	09:06:33 From Linda Avanzino-Perez to Everyone : Se puede encontrar el quiz debajo de         Quiz Fecha Jan.14
+	09:06:52 From Linda Avanzino-Perez to Everyone : Quiz
+	09:07:01 From Linda Avanzino-Perez to Everyone : Jan. 14
+	09:08:31 From Linda Avanzino-Perez to Everyone : Deje me saber si hay preguntas?
+	09:36:48 From Linda Avanzino-Perez to Everyone : Deje me saber si hay preguntas
+	09:41:44 From Linda Avanzino-Perez to Everyone : Vamos ver # 6
+	09:42:02 From Linda Avanzino-Perez to Everyone : Tarjeta # 6
+	09:49:49 From Linda Avanzino-Perez to Wei-Ling Chu(Direct Message) : Can you send me a list of the EL's in your class so I can communicate with them and make sure everyone understands.
+	09:56:57 From Linda Avanzino-Perez to Everyone : Lo vamos repasar en 30 segundos
+	09:57:59 From Linda Avanzino-Perez to Everyone : Vamos ser tarjeta #15
+	09:59:12 From Linda Avanzino-Perez to Everyone : se suma 5.3 cada vez
+	09:59:56 From Linda Avanzino-Perez to Everyone : Para encontrar Termino 0 se tiene que arestar 5.3
+	10:00:11 From Linda Avanzino-Perez to Everyone : Termino  Zero es 6.7
+	10:02:33 From Linda Avanzino-Perez to Everyone : se divide 14/4 =
+	10:02:41 From Linda Avanzino-Perez to Everyone : que es 3.5
+	10:03:01 From Linda Avanzino-Perez to Everyone : Cada vez se suma 3.5
+	10:03:18 From Linda Avanzino-Perez to Everyone : Se suma 4 vezes
+	10:04:48 From Linda Avanzino-Perez to Everyone : Para encontrar el Termino Zero se aresta 3.5 de 5
+	10:05:09 From Linda Avanzino-Perez to Everyone : El termino zero es 1.5
+	10:05:28 From Linda Avanzino-Perez to Everyone : preguntas?
+	10:07:08 From Linda Avanzino-Perez to Everyone : Esta aumentando o bajando
+	10:07:17 From Linda Avanzino-Perez to Everyone : como va la sequencia
+	10:07:28 From Linda Avanzino-Perez to Everyone : la sequencia esta bajando
+	10:09:43 From Linda Avanzino-Perez to Everyone : Se suma 6 veses
+	10:10:30 From Linda Avanzino-Perez to Everyone : se aresta los dos numeros
+	10:10:48 From Linda Avanzino-Perez to Everyone : y despues se divide por 6
+	10:11:19 From Linda Avanzino-Perez to Everyone : la respuesta es -7
+ ayala               austin              
+	10:07:18 From Austin Ayala to Wei-Ling Chu(Direct Message) : decreasing
+	10:08:20 From Austin Ayala to Wei-Ling Chu(Direct Message) : negative
+ bear                scarlet             
+	10:06:37 From Scarlet Bear to Wei-Ling Chu(Direct Message) : decreasing
+	10:08:39 From Scarlet Bear to Wei-Ling Chu(Direct Message) : they can be positive and negative.
+ bergener            ash                 
+	09:09:04 From Ash Bergener to Wei-Ling Chu(Direct Message) : Yeah sorry I forgot to tell you
+	10:06:26 From Ash Bergener to Wei-Ling Chu(Direct Message) : decreasing
+	10:06:57 From Ash Bergener to Wei-Ling Chu(Direct Message) : d=-6
  chu                 wei-ling            
-	12:59:11	 From Wei-Ling Chu to Emily Chiang (Privately) : Yes no problem
-	13:31:10	 From Wei-Ling Chu to Mia Vargas (Privately) : How about the onesies?
-	13:34:23	 From Wei-Ling Chu : https://student.desmos.com/join/g9wgm4
-	13:39:23	 From Wei-Ling Chu to Ryan Gaumont (Privately) : clearer?
-	13:54:27	 From Wei-Ling Chu to Ryan Gaumont (Privately) : yes
- de la rosa acosta   yannies             
-	13:15:16	 From Yannies De La Rosa Acosta to Wei-Ling Chu (Privately) : 15?
-	13:21:59	 From Yannies De La Rosa Acosta to Wei-Ling Chu (Privately) : 4x^2+3x+1
-	13:25:19	 From Yannies De La Rosa Acosta to Wei-Ling Chu (Privately) : x^2+2-x^2+x+-x+-1+2 1 i tried:(
-	13:27:12	 From Yannies De La Rosa Acosta to Wei-Ling Chu (Privately) : 3x+1
-	13:28:55	 From Yannies De La Rosa Acosta to Wei-Ling Chu (Privately) : 2x^2?
- fuller              jayden              
-	13:12:59	 From Jayden Fuller to Wei-Ling Chu (Privately) : length is 4 and the width is 5
-	13:13:12	 From Jayden Fuller to Wei-Ling Chu (Privately) : 20 units inside
- gaumont             ryan                
-	13:10:16	 From Ryan Gaumont to Wei-Ling Chu (Privately) : width is 5 and length is 4?
-	13:10:26	 From Ryan Gaumont to Wei-Ling Chu (Privately) : or vice versa im not sure
-	13:13:03	 From Ryan Gaumont to Wei-Ling Chu (Privately) : area is 20 because its telling us that it is 4 units by 5 units, meaning that for every row of 4 tiles, there are 5 in that row, so 4 row of 5 or 4x5 = 20
-	13:21:47	 From Ryan Gaumont to Wei-Ling Chu (Privately) : 4x^2+3x+1
-	13:21:59	 From Ryan Gaumont to Wei-Ling Chu (Privately) : are we writing it like that?
-	13:24:45	 From Ryan Gaumont to Wei-Ling Chu (Privately) : x^2+1
-	13:24:54	 From Ryan Gaumont to Wei-Ling Chu (Privately) : oops
-	13:25:02	 From Ryan Gaumont to Wei-Ling Chu (Privately) : -x^2+1
-	13:27:59	 From Ryan Gaumont to Wei-Ling Chu (Privately) : no clue
-	13:31:45	 From Ryan Gaumont to Wei-Ling Chu (Privately) : x^2+x-2
-	13:36:47	 From Ryan Gaumont to Wei-Ling Chu (Privately) : im confused
-	13:36:54	 From Ryan Gaumont to Wei-Ling Chu (Privately) : how are they alike?
-	13:39:58	 From Ryan Gaumont to Wei-Ling Chu (Privately) : yeah that makes alot more sense
-	13:40:01	 From Ryan Gaumont to Wei-Ling Chu (Privately) : thanks :)
-	13:51:52	 From Ryan Gaumont to Wei-Ling Chu (Privately) : how do you do that with blocks???
-	13:53:30	 From Ryan Gaumont to Wei-Ling Chu (Privately) : so you just type in the answer of the simplfied equation?
-	13:54:31	 From Ryan Gaumont to Wei-Ling Chu (Privately) : ok
- gonzalez            gabriel             
-	14:28:04	 From Gabriel Gonzalez : is late work alowed? i was checking rn and have alot of hw not done
- i                   carisa              
-	13:09:56	 From Carisa Ito to Wei-Ling Chu (Privately) : length: 5
-	13:10:01	 From Carisa Ito to Wei-Ling Chu (Privately) : width: 4
-	13:11:29	 From Carisa Ito to Wei-Ling Chu (Privately) : 20
-	13:31:40	 From Carisa Ito to Wei-Ling Chu (Privately) : x^2 + x +2
- johnson             jaden               
-	13:10:14	 From Jaden Johnson : 4 and 5 units
-	13:12:02	 From Jaden Johnson : 20u, 4 * 5
-	13:21:30	 From Jaden Johnson : 4x^2+3x+1
- ortiz moreno        joshua              
-	13:10:20	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : They are 4 and 5\
-	13:11:52	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : 20
-	13:14:09	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : The width of the area is 3
-	13:15:03	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : It is going to be 5?
-	13:15:14	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : on both sides
-	13:16:43	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : Is width of the square 4
-	13:21:58	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : 4x^2+3x+1
-	13:24:39	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : -1x^2+1
-	13:27:37	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : -1x^2+3x+1
-	13:28:26	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : 2x^2
-	13:30:36	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : 1x^2+1x+-3
-	13:30:43	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : -2
-	13:32:18	 From Joshua Ortiz Moreno to Wei-Ling Chu (Privately) : ]
- rivera arias        maria               
-	13:09:49	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : l=4 w=5
-	13:11:27	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : 20 units
-	13:12:11	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : length x width
-	13:13:40	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : 1
-	13:14:49	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : 5 and 5
-	13:16:03	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : x and x ?
-	13:21:29	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : 4x^2 + 3x + 1
-	13:23:59	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : x^2 + x + 2
-	13:27:03	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : 3x + 1
-	13:28:54	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : x^2 + x -2
-	13:29:23	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : 2x^2 
-	13:29:29	 From Maria Rivera Arias to Wei-Ling Chu (Privately) : -1
- rodriguez           raquel              
-	13:10:23	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : The length is 5 and 4 is the width
-	13:10:33	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : units*
-	13:11:40	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : 20
-	13:11:43	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : units
-	13:13:56	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : One unit
-	13:15:14	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : 5*5
-	13:17:52	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : Oh I didn’t understand the last one but now I remenber
-	13:21:26	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : 4x^2 + 3x +1
-	13:24:35	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : -x^2 + 1
-	13:27:30	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : -x^2+3x+1
-	13:29:13	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : 2x^2+(-2x)+(-3)
-	13:31:06	 From Raquel Rodriguez to Wei-Ling Chu (Privately) : x^2+x+-2
- ruano mora          gabriel             
-	13:10:01	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : the 5 is the width
-	13:10:13	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : The 4 is the length
-	13:11:20	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : what
-	13:11:24	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : 20
-	13:13:51	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : 144 ?
-	13:14:17	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : 1
-	13:14:54	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : 5 or 4
-	13:16:06	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : x 
-	13:21:25	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : 4x2+3x+1
-	13:24:23	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : -3x2+2
-	13:25:12	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : -x2+2
-	13:25:32	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : wait there's a negative one
-	13:27:29	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : -x2+ 3x+1
-	13:28:52	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : do we add them together
-	13:29:29	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : 2x2-3-2x
-	13:31:34	 From Gabriel Ruano Mora to Wei-Ling Chu (Privately) : x2+x-2
- ruiz ruiz           jesus               
-	13:09:51	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : 4 and 5
-	13:11:44	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : the area is 18
-	13:15:16	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : 5
-	13:22:38	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : 4x^2+3x+1
-	13:28:38	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : -3x+x^2
-	13:31:12	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : 1x^2+1x+-2
-	14:11:22	 From Jesus Ruiz Ruiz to Wei-Ling Chu (Privately) : ok bye have a good day 4
- vargas              mia                 
-	13:10:08	 From Mia Vargas to Wei-Ling Chu (Privately) : 4 & 5
-	13:11:50	 From Mia Vargas to Wei-Ling Chu (Privately) : 20
-	13:14:13	 From Mia Vargas to Wei-Ling Chu (Privately) : 1 im guessing
-	13:14:30	 From Mia Vargas to Wei-Ling Chu (Privately) : its one
-	13:14:56	 From Mia Vargas to Wei-Ling Chu (Privately) : 5x5
-	13:22:39	 From Mia Vargas to Wei-Ling Chu (Privately) : 4xt o the power of 2 3x+1
-	13:24:28	 From Mia Vargas to Wei-Ling Chu (Privately) : -x^2+2
-	13:26:50	 From Mia Vargas to Wei-Ling Chu (Privately) : *+1
-	13:27:09	 From Mia Vargas to Wei-Ling Chu (Privately) : 3x+1
-	13:29:03	 From Mia Vargas to Wei-Ling Chu (Privately) : 2x^2 2-x+-3
-	13:30:55	 From Mia Vargas to Wei-Ling Chu (Privately) : x^2+1x
-	14:16:16	 From Mia Vargas to Wei-Ling Chu (Privately) : oh okay thank you
- vazquez             robert              
-	13:09:49	 From Robert Vazquez to Wei-Ling Chu (Privately) : Length = 4
-	13:09:52	 From Robert Vazquez to Wei-Ling Chu (Privately) : Width = 5
-	13:11:40	 From Robert Vazquez to Wei-Ling Chu (Privately) : 20
-	13:12:06	 From Robert Vazquez to Wei-Ling Chu (Privately) : L x w
-	13:13:44	 From Robert Vazquez to Wei-Ling Chu (Privately) : 1
-	13:15:06	 From Robert Vazquez to Wei-Ling Chu (Privately) : 5 x 5
-	13:15:24	 From Robert Vazquez to Wei-Ling Chu (Privately) : Width = 5
-	13:16:19	 From Robert Vazquez to Wei-Ling Chu (Privately) : x?
-	13:21:27	 From Robert Vazquez to Wei-Ling Chu (Privately) : 4x^2 + 3x + 1
-	13:24:26	 From Robert Vazquez to Wei-Ling Chu (Privately) : x^2+x+2+2-x^2+-x+-1
-	13:27:19	 From Robert Vazquez to Wei-Ling Chu (Privately) : 3x+1-x^2
-	13:27:36	 From Robert Vazquez to Wei-Ling Chu (Privately) : 3x+1+-x^2
-	13:28:51	 From Robert Vazquez to Wei-Ling Chu (Privately) : 2x^2+-2x+-3
-	13:30:54	 From Robert Vazquez to Wei-Ling Chu (Privately) : x^2+x+-2
+	09:05:08 From Wei-Ling Chu to Linda Avanzino-Perez(Direct Message) : On canvas, “quizzes” on left,
+	09:05:18 From Wei-Ling Chu to Linda Avanzino-Perez(Direct Message) : And it’s called “Quiz #1 …”
+	09:06:30 From Wei-Ling Chu to Aditya Yadav(Direct Message) : nvm
+	09:06:35 From Wei-Ling Chu to Aditya Yadav(Direct Message) : You are already done
+	09:07:09 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : yees
+	09:07:16 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : Sorry if that wasn’t clear
+	09:07:24 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : let me know if you feel you didn’t have enough time
+	09:07:30 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : I was wondering why you didn’t start...
+	09:07:56 From Wei-Ling Chu to Ash Bergener(Direct Message) : Oh nm
+	09:08:03 From Wei-Ling Chu to Ash Bergener(Direct Message) : you are already done:)
+	09:08:28 From Wei-Ling Chu to Alexis Mendoza Rangel(Direct Message) : Please have video on when working on quiz
+	09:09:18 From Wei-Ling Chu to Ash Bergener(Direct Message) : no worries you didn’t need to. I’m slow today
+	09:10:36 From Wei-Ling Chu to Sienna Ojeda(Direct Message) : No worries!
+	09:12:19 From Wei-Ling Chu to Naomi Ochoa(Direct Message) : no worries
+	09:12:31 From Wei-Ling Chu to Naomi Ochoa(Direct Message) : We have a quiz, so please have video on when you are ready
+	09:13:09 From Wei-Ling Chu to Leslie Romero Cruz(Direct Message) : yup!
+	09:13:45 From Wei-Ling Chu to Edgar Luna Cuevas(Direct Message) : No worries
+	09:14:12 From Wei-Ling Chu to Edgar Luna Cuevas(Direct Message) : Just take your time when we continue class
+	09:14:20 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : 〈( ^.^)ノ
+	09:16:12 From Wei-Ling Chu to Everyone : https://student.desmos.com/activitybuilder/student-greeting/60007c53dd834233f9ad4c81
+	09:18:22 From Wei-Ling Chu to Edgar Luna Cuevas(Direct Message) : I’m giving the wifi gods some chocolate chip cookies right now to bribe them
+	09:18:36 From Wei-Ling Chu to Everyone : https://teacher.desmos.com/dashboard/60007c53dd834233f9ad4c81#summary
+	09:19:34 From Wei-Ling Chu to Elizabeth Lopez Gonzalez(Direct Message) : next Wednesday
+	09:20:01 From Wei-Ling Chu to Aditya Yadav(Direct Message) : You can do it later in the afternoon or evening when the network is better
+	09:20:38 From Wei-Ling Chu to Aditya Yadav(Direct Message) : Gives me a heads up when you are done so I can update credit appropriately
+	09:22:37 From Wei-Ling Chu to Naomi Ochoa(Direct Message) : https://student.desmos.com/activitybuilder/student-greeting/60007c53dd834233f9ad4c81
+	09:23:34 From Wei-Ling Chu to Rey Ruano(Direct Message) : Yes there is retake, on Wednesday. I will show the schedule
+	09:24:58 From Wei-Ling Chu to Edgar Luna Cuevas(Direct Message) : Sure you can do them right after class
+	09:25:20 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : it needs to be very precise
+	09:25:28 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : looking
+	09:25:43 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : Oh it’s on the door!
+	09:26:03 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : No hanging on the door:)
+	09:26:50 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : need to pick a smaller distance then...
+	09:28:26 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : There!
+	09:29:16 From Wei-Ling Chu to Edgar Luna Cuevas(Direct Message) : with???
+	09:29:34 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : That’s the right attitude!
+	09:29:42 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : got to fix them all!
+	09:29:58 From Wei-Ling Chu to Edgar Luna Cuevas(Direct Message) : That was for the wifi gods!
+	09:30:32 From Wei-Ling Chu to Edgar Luna Cuevas(Direct Message) : now your wifi is going to suck because the wifi gods are mad at you for taking their cookies
+	09:30:45 From Wei-Ling Chu to Edgar Luna Cuevas(Direct Message) : make sure you go back to fix card #5
+	09:31:31 From Wei-Ling Chu to Ever Ramirez Espitia(Direct Message) : looking
+	09:32:46 From Wei-Ling Chu to Ever Ramirez Espitia(Direct Message) : so if we want the distance at hook # 5, how many times did we add 4feet from hook #1?
+	09:34:21 From Wei-Ling Chu to Ever Ramirez Espitia(Direct Message) : For hook #n we’d have added 4, “n-1” times
+	09:34:47 From Wei-Ling Chu to Ever Ramirez Espitia(Direct Message) : That’s a total of 4*(n-1) added
+	09:34:52 From Wei-Ling Chu to Ever Ramirez Espitia(Direct Message) : to where hook #1 is
+	09:35:03 From Wei-Ling Chu to Ever Ramirez Espitia(Direct Message) : Is this helping?
+	09:37:33 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : no
+	09:37:54 From Wei-Ling Chu to Jesus Gonzalez Bernal(Direct Message) : It motivates you to find a rule!
+	09:39:15 From Wei-Ling Chu to Sienna Ojeda(Direct Message) : looking
+	09:40:12 From Wei-Ling Chu to Sienna Ojeda(Direct Message) : So try to find the common difference by figuring how much totally distance was changed, and how many times the common difference is added to get there
+	09:40:39 From Wei-Ling Chu to Sienna Ojeda(Direct Message) : This will be something we go over later how to do systematically, so trial and error is ok right now
+	09:48:19 From Wei-Ling Chu to Sienna Ojeda(Direct Message) : Decimal is ok!
+	09:48:36 From Wei-Ling Chu to Sienna Ojeda(Direct Message) : decimal is totally a number that appears in the real world!
+	09:48:42 From Wei-Ling Chu to Sienna Ojeda(Direct Message) : On our walls!
+	09:51:02 From Wei-Ling Chu to Sienna Ojeda(Direct Message) : Yup, it like saying I’m spacing the photos by 1.5 feet each time
+	10:13:27 From Wei-Ling Chu to Rey Ruano(Direct Message) : yes
+ darosa              michael             
+	09:14:55 From Michael daRosa to Wei-Ling Chu(Direct Message) : Done
+ gonzalez            jesus               
+	09:01:59 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : seems nice to have lots of Friends lol
+	09:03:12 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : just say a lot a bit
+	09:07:05 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : do we start the quiz?
+	09:07:12 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : ooo
+	09:07:45 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : i was waiting till u said start the quiz
+	09:14:15 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : i got 100% yay
+	09:24:33 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : page five is broken
+	09:25:04 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : no i hvae them all lined up and the last one keeps falling when it right on top of the hook
+	09:25:53 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : yea thats why
+	09:26:32 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : its forcing it to e on the dorr
+	09:26:35 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : door
+	09:27:34 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : ok
+	09:29:24 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : i was getting annoyed with it lol
+	09:29:54 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : lmao
+	09:33:22 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : is 10 a troll
+	09:33:28 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : is page ten a troll
+	09:58:12 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : 4.3
+	10:07:16 From Jesus Gonzalez Bernal to Wei-Ling Chu(Direct Message) : decreasing
+ haddis              nathan              
+	09:13:49 From Nathan Haddis to Everyone : Done
+ joseph              nishant             
+	09:02:56 From Nishant Joseph to Wei-Ling Chu(Direct Message) : It says this quiz is part of an unpublushed module
+	10:06:46 From Nishant Joseph to Wei-Ling Chu(Direct Message) : decreasing
+	10:08:14 From Nishant Joseph to Wei-Ling Chu(Direct Message) : negative
+ linder              camden              
+	10:08:16 From Camden Linder to Wei-Ling Chu(Direct Message) : decreasing
+ lopez               elizabeth           
+	09:19:03 From Elizabeth Lopez Gonzalez to Wei-Ling Chu(Direct Message) : When is the retake :)
+ luna                edgar               
+	09:13:37 From Edgar Luna Cuevas to Wei-Ling Chu(Direct Message) : my bad, i had wifi isses
+	09:17:40 From Edgar Luna Cuevas to Wei-Ling Chu(Direct Message) : my wifi still slow, smh
+	09:24:39 From Edgar Luna Cuevas to Wei-Ling Chu(Direct Message) : i have to take the quiz  in study hall?
+	09:29:01 From Edgar Luna Cuevas to Everyone : done
+	09:29:43 From Edgar Luna Cuevas to Wei-Ling Chu(Direct Message) : eating the choclate chip cookies
+	09:30:21 From Edgar Luna Cuevas to Wei-Ling Chu(Direct Message) : oooppppsss.....
+	09:37:20 From Edgar Luna Cuevas to Everyone : ok gracias 0---l--<
+ ochoa               naomi               
+	09:12:01 From Naomi Ochoa to Wei-Ling Chu(Direct Message) : Sorry for being late my wifi was not working.
+	09:22:15 From Naomi Ochoa to Wei-Ling Chu(Direct Message) : can you send the link please
+	09:22:41 From Naomi Ochoa to Wei-Ling Chu(Direct Message) : Thank you
+	10:08:15 From Naomi Ochoa to Wei-Ling Chu(Direct Message) : negative
+ ojeda               sienna              
+	09:02:10 From Sienna Ojeda to Wei-Ling Chu(Direct Message) : it says, "This assignment is part of an unpublished module and is not available yet."
+	09:02:35 From Sienna Ojeda to Wei-Ling Chu(Direct Message) : it wont let me start it
+	09:10:28 From Sienna Ojeda to Wei-Ling Chu(Direct Message) : My internet kicked me out sorry bout that.
+	09:11:19 From Sienna Ojeda to Wei-Ling Chu(Direct Message) : done
+	09:38:47 From Sienna Ojeda to Wei-Ling Chu(Direct Message) : Can you help me with slide 16 please?
+	09:41:13 From Sienna Ojeda to Wei-Ling Chu(Direct Message) : The distance between 12 and 26 is 14 and 14 divided by 3 is a decimal number
+	09:50:23 From Sienna Ojeda to Wei-Ling Chu(Direct Message) : if its an ongoing decimal would it work
+	10:02:37 From Sienna Ojeda to Wei-Ling Chu(Direct Message) : ohh  I was doing 14 divivded by 3
+	10:06:29 From Sienna Ojeda to Wei-Ling Chu(Direct Message) : decreasing
+	10:08:05 From Sienna Ojeda to Wei-Ling Chu(Direct Message) : negative
+ perez               jocelyn             
+	10:06:43 From Jocelyn Perez Riano to Wei-Ling Chu(Direct Message) : decreasing
+ ramirez             ever                
+	09:03:06 From Ever Ramirez Espitia to Wei-Ling Chu(Direct Message) : I doesn't let me do the quiz
+	09:03:25 From Ever Ramirez Espitia to Wei-Ling Chu(Direct Message) : It says that "This assignment is part of an unpublished module and is not available yet."
+	09:04:07 From Ever Ramirez Espitia to Wei-Ling Chu(Direct Message) : it works thank you
+	09:31:25 From Ever Ramirez Espitia to Wei-Ling Chu(Direct Message) : im confused on 10
+	09:33:44 From Ever Ramirez Espitia to Wei-Ling Chu(Direct Message) : 4 times
+	09:35:38 From Ever Ramirez Espitia to Wei-Ling Chu(Direct Message) : yeah thanks
+	10:06:29 From Ever Ramirez Espitia to Wei-Ling Chu(Direct Message) : decreasing
+	10:08:12 From Ever Ramirez Espitia to Wei-Ling Chu(Direct Message) : negative
+ romero              leslie              
+	09:13:03 From Leslie Romero Cruz to Wei-Ling Chu(Direct Message) : Ms. Chu I've finished. May I turn off my cam?
+	10:07:03 From Leslie Romero Cruz to Wei-Ling Chu(Direct Message) : decreasing?
+	10:08:22 From Leslie Romero Cruz to Wei-Ling Chu(Direct Message) : negative
+ ruano               rey                 
+	09:23:02 From Rey Ruano to Wei-Ling Chu(Direct Message) : i swear ik more i just wasnt thinking straight right now im so tired any way i could retake or something
+	09:24:22 From Rey Ruano to Wei-Ling Chu(Direct Message) : oh ok im sorry i didnt do good
+	10:13:17 From Rey Ruano to Wei-Ling Chu(Direct Message) : is class over?
+ schmidt             dillon              
+	09:17:52 From Dillon Schmidt to Wei-Ling Chu(Direct Message) : Im going to join back my screen is black
+	09:18:42 From Dillon Schmidt to Wei-Ling Chu(Direct Message) : Awesome thank you!
+	10:07:04 From Dillon Schmidt to Wei-Ling Chu(Direct Message) : decreasing
+	10:08:11 From Dillon Schmidt to Wei-Ling Chu(Direct Message) : negative
+ tautolo             sianalai            
+	09:02:54 From Sianalai Tautolo to Wei-Ling Chu(Direct Message) : The quiz says This assignment is part of an unpublished module and is not available yet.
+	09:04:03 From Sianalai Tautolo to Wei-Ling Chu(Direct Message) : it worked thank you
+	10:06:55 From Sianalai Tautolo to Wei-Ling Chu(Direct Message) : decreasing?
+	10:08:24 From Sianalai Tautolo to Wei-Ling Chu(Direct Message) : positive
+ thomas              ethan               
+	10:06:24 From Ethan Thomas to Wei-Ling Chu(Direct Message) : decreasing
+	10:08:59 From Ethan Thomas to Wei-Ling Chu(Direct Message) : negative
+	10:11:33 From Ethan Thomas to Wei-Ling Chu(Direct Message) : -7
+ yadav               aditya              
+	09:02:45 From Aditya Yadav to Wei-Ling Chu(Direct Message) : I can't access the quiz it says "This assignment is part of an unpublished module and is not available yet"
+	09:06:42 From Aditya Yadav to Wei-Ling Chu(Direct Message) : issok :)
+	09:19:33 From Aditya Yadav to Wei-Ling Chu(Direct Message) : Ms.Chu My desmos isn't loading today. is there someother way to do the classwork?
+	09:20:07 From Aditya Yadav to Wei-Ling Chu(Direct Message) : okay cool
+	09:21:02 From Aditya Yadav to Wei-Ling Chu(Direct Message) : okay definitely
