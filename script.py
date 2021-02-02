@@ -1,6 +1,6 @@
 import sys
 
-class entry(object): # '”' is causing issues '"'
+class entry(object):
 	def __init__ (self, inp):
 		self.inp = inp
 		temp = inp.split(" ")
