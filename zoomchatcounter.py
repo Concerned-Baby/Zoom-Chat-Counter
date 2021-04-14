@@ -5,7 +5,15 @@ import datetime
 #Parameters: File on read
 #Returns: A list of who sent each message
 def parseToSender(inputFile):
-	pass
+	senders = []
+	for inputLine in inputFile.readlines():
+		try:
+			indexOne = inputLine.index("From") + 5
+			indexTwo = inputLine.index("to") - 1
+			senders.append(inputLine[indexOne:indexTwo])
+		except ValueError:
+			pass #faulty line, need to ignore
+	return senders
 
 #Counts how many times a sender appears in the list
 #Parameters: A list of who sent each message
@@ -40,12 +48,12 @@ def main():
 	if (len(sys.argv) != 3):
 		print("\nInvalid Input: Type in the command \"python zoomchatcounter.py [input file] [output file]\"\n")
 	else:
-		try: 
-			inFile = open(sys.argv[1], "r", encoding="utf8")
-			outFile = open(sys.argv[2], "w", encoding="utf8")
-			doProcess(inFile, outFile)
-		except Exception:
-			print("A problem occured while registering files")
+		#try: 
+		inFile = open(sys.argv[1], "r", encoding="utf8")
+		outFile = open(sys.argv[2], "w", encoding="utf8")
+		doProcess(inFile, outFile)
+		#except Exception:
+		#	print("A problem occured while registering files")
 
 	print("Runtime is:", end=" ")
 	print(datetime.datetime.now() - begin_time)
