@@ -11,15 +11,21 @@ def parseToSender(inputFile):
 			indexOne = inputLine.index("From") + 5
 			indexTwo = inputLine.index("to") - 1
 			senders.append(inputLine[indexOne:indexTwo])
-		except ValueError:
-			pass #faulty line, need to ignore
+		except ValueError: #overflow line, can ignore
+			pass 
 	return senders
 
 #Counts how many times a sender appears in the list
 #Parameters: A list of who sent each message
 #Returns: A dictionary of each sender and how many messages they sent
 def consolidateToSenderCount(senders):
-	pass
+	senderDict = {} #String sender, int times
+	for sender in senders:
+		try:
+			senderDict[sender] = senderDict.get(sender) + 1
+		except TypeError: #sender is not in dictionary yet
+			senderDict[sender] = 1
+	return senderDict
 
 #Formats the dictionary so that it is alphabetized and margined
 #Parameters: A dictonary of each sender and how many messages they sent
