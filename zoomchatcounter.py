@@ -65,7 +65,6 @@ def formatDictionary(senderDict, senderList, entryList):
 			toSend += sender.ljust(maxNameLength) + str(senderDict[sender]) + "\n"
 		for message in getMessages(sender, senderList, entryList):
 			toSend += "\t" + message
-	print(toSend)
 	return toSend
 
 #Writes the text to a file
