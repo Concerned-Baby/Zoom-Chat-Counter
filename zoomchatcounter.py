@@ -31,13 +31,20 @@ def consolidateToSenderCount(senders):
 #Parameters: A dictonary of each sender and how many messages they sent
 #Returns: A string that is ready to be outputted
 def formatDictionary(senderDict):
-	pass
+	toSend = ""
+	maxNameLength = 25
+	for sender in sorted(senderDict.keys()):
+		if (len(sender) > maxNameLength):
+			toSend += sender[:maxNameLength] + str(senderDict[sender]) + "\n"
+		else:
+			toSend += sender.ljust(maxNameLength) + str(senderDict[sender]) + "\n"
+	return toSend
 
 #Writes the text to a file
 #Parameters: The text to be written, a file on write
 #Returns: Nothing
 def writeToFile(text, outputFile):
-	pass
+	outputFile.write(text)
 
 #Does the whole process that this program is supposed to do
 #Parameters: A file on read, A file on write
