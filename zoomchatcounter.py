@@ -1,5 +1,10 @@
 import sys
 import datetime
+"""
+Author: Spencer Ye
+Last Modified: April 15, 2021
+Version: 1.0
+"""
 
 #Takes the list of entries and sees who sent each entry
 #Parameters: A list of entries
@@ -90,6 +95,9 @@ def main():
 			doProcess(inFile, outFile)
 		except Exception:
 			print("A problem occured while registering files")
+
+	#print("Runtime is:", end=" ")
+	#print(datetime.datetime.now() - begin_time)
 
 if __name__ == "__main__":
 	main()
