@@ -1,18 +1,15 @@
 import sys
 import datetime
 
-#Takes the input file and sees who sent each message
-#Parameters: File on read
+#Takes the list of entries and sees who sent each entry
+#Parameters: A list of entries
 #Returns: A list of who sent each message
-def parseToSender(inputFile):
+def parseToSender(entries):
 	senders = []
-	for inputLine in inputFile.readlines():
-		try:
-			indexOne = inputLine.index("From") + 5
-			indexTwo = inputLine.index("to") - 1
-			senders.append(inputLine[indexOne:indexTwo])
-		except ValueError: #overflow line, can ignore
-			pass 
+	for inputLine in entries:
+		indexOne = inputLine.index("From") + 5
+		indexTwo = inputLine.index("to") - 1
+		senders.append(inputLine[indexOne:indexTwo])
 	return senders
 
 #Counts how many times a sender appears in the list
@@ -27,10 +24,33 @@ def consolidateToSenderCount(senders):
 			senderDict[sender] = 1
 	return senderDict
 
-#Formats the dictionary so that it is alphabetized and margined
-#Parameters: A dictonary of each sender and how many messages they sent
+# Returns all the entries in the given input file
+# Parameters: A File on read
+# Returns: A list of strings of all the entries
+def getEntries(inputFile):
+	entries = []
+	for inputLine in inputFile.readlines():
+		try:
+			inputLine.index("From")
+			entries.append(inputLine)
+		except ValueError:
+			entries[len(entries) - 1] = entries[len(entries) - 1] + inputLine
+	return entries
+
+#Gets the messages sent by a particular sender
+#Parameters: String name of the sender, A list of who sent each message, A list of all entries
+#Returns: A string list of all the messages that the sender sent 
+def getMessages(sender, senderList, entries):
+	senderEntries = []
+	for i in range(len(senderList)):
+		if sender == senderList[i]:
+			senderEntries.append(entries[i])
+	return senderEntries
+
+#Formats the dictionary so that it is alphabetized and margined, then adds the related entries
+#Parameters: A dictonary of each sender and how many messages they sent, A list of who sent each message, A list of strings of entries
 #Returns: A string that is ready to be outputted
-def formatDictionary(senderDict):
+def formatDictionary(senderDict, senderList, entryList):
 	toSend = ""
 	maxNameLength = 25
 	for sender in sorted(senderDict.keys()):
@@ -38,6 +58,9 @@ def formatDictionary(senderDict):
 			toSend += sender[:maxNameLength] + str(senderDict[sender]) + "\n"
 		else:
 			toSend += sender.ljust(maxNameLength) + str(senderDict[sender]) + "\n"
+		for message in getMessages(sender, senderList, entryList):
+			toSend += "\t" + message
+	print(toSend)
 	return toSend
 
 #Writes the text to a file
@@ -50,26 +73,23 @@ def writeToFile(text, outputFile):
 #Parameters: A file on read, A file on write
 #Returns: Nothing
 def doProcess(inputFile, outputFile):
-	senders = parseToSender(inputFile)
+	entryList = getEntries(inputFile)
+	senders = parseToSender(entryList)
 	sendersCount = consolidateToSenderCount(senders)
-	text = formatDictionary(sendersCount)
+	text = formatDictionary(sendersCount, senders, entryList)
 	writeToFile(text, outputFile)
-
 
 def main():
 	begin_time = datetime.datetime.now()
 	if (len(sys.argv) != 3):
 		print("\nInvalid Input: Type in the command \"python zoomchatcounter.py [input file] [output file]\"\n")
 	else:
-		#try: 
-		inFile = open(sys.argv[1], "r", encoding="utf8")
-		outFile = open(sys.argv[2], "w", encoding="utf8")
-		doProcess(inFile, outFile)
-		#except Exception:
-		#	print("A problem occured while registering files")
-
-	print("Runtime is:", end=" ")
-	print(datetime.datetime.now() - begin_time)
+		try: 
+			inFile = open(sys.argv[1], "r", encoding="utf8")
+			outFile = open(sys.argv[2], "w", encoding="utf8")
+			doProcess(inFile, outFile)
+		except Exception:
+			print("A problem occured while registering files")
 
 if __name__ == "__main__":
 	main()
