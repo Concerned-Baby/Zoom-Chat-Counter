@@ -2,8 +2,19 @@ import sys
 import datetime
 """
 Author: Spencer Ye
-Last Modified: April 15, 2021
-Version: 1.0
+Last Modified: April 20, 2021
+Version: 1.1.1
+"""
+
+"""
+KNOWN ERRORS
+-any participants with the keywords in their name of "From" or "to" will unfortunately lose part of their identity
+"""
+
+"""
+Mother old advice from the old days, when a poorly educated immigrant can get a tech job
+- Any numbers that other people don't know where you got it from is going to be a big big big error
+
 """
 
 #Takes the list of entries and sees who sent each entry
@@ -12,19 +23,22 @@ Version: 1.0
 def parseToSender(entries):
 	senders = []
 	for inputLine in entries:
-		indexOne = inputLine.index("From") + 5
-		indexTwo = inputLine.index("to") - 1
+		indexOne = inputLine.index(" From ") + 6
+		indexTwo = inputLine.index(" to ") + 0
 		senders.append(inputLine[indexOne:indexTwo])
 	return senders
 #Takes the full name of the entry and changes it to last name then first name
 #Parameters: A string of a senders full name
 #Returns: A string of hte senders name with last name first
 def getSenderFormattedName(previousName):
+	index = 104358
 	try:
 		index = previousName.index(" ")
-		return previousName[index:] + previousName[:index]
 	except ValueError:
+		print("lol error")
 		return previousName
+
+	return previousName[index + 1:] + ", " + previousName[:index]
 	return "ERROR IN SENDER NAME: " + previousName
 
 #Counts how many times a sender appears in the list
@@ -70,9 +84,9 @@ def formatDictionary(senderDict, senderList, entryList):
 	maxNameLength = 25
 	for sender in sorted(senderDict.keys()):
 		if (len(sender) > maxNameLength):
-			toSend += sender[:maxNameLength] + getSenderFormattedName(str(senderDict[sender])) + "\n"
+			toSend += getSenderFormattedName(sender)[:maxNameLength] + str(senderDict[sender]) + "\n"
 		else:
-			toSend += sender.ljust(maxNameLength) + getSenderFormattedName(str(senderDict[sender])) + "\n"
+			toSend += getSenderFormattedName(sender).ljust(maxNameLength) + str(senderDict[sender]) + "\n"
 		for message in getMessages(sender, senderList, entryList):
 			toSend += "\t" + message
 	return toSend
