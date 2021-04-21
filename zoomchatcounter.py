@@ -16,6 +16,16 @@ def parseToSender(entries):
 		indexTwo = inputLine.index("to") - 1
 		senders.append(inputLine[indexOne:indexTwo])
 	return senders
+#Takes the full name of the entry and changes it to last name then first name
+#Parameters: A string of a senders full name
+#Returns: A string of hte senders name with last name first
+def getSenderFormattedName(previousName):
+	try:
+		index = previousName.index(" ")
+		return previousName[index:] + previousName[:index]
+	except ValueError:
+		return previousName
+	return "ERROR IN SENDER NAME: " + previousName
 
 #Counts how many times a sender appears in the list
 #Parameters: A list of who sent each message
@@ -60,9 +70,9 @@ def formatDictionary(senderDict, senderList, entryList):
 	maxNameLength = 25
 	for sender in sorted(senderDict.keys()):
 		if (len(sender) > maxNameLength):
-			toSend += sender[:maxNameLength] + str(senderDict[sender]) + "\n"
+			toSend += sender[:maxNameLength] + getSenderFormattedName(str(senderDict[sender])) + "\n"
 		else:
-			toSend += sender.ljust(maxNameLength) + str(senderDict[sender]) + "\n"
+			toSend += sender.ljust(maxNameLength) + getSenderFormattedName(str(senderDict[sender])) + "\n"
 		for message in getMessages(sender, senderList, entryList):
 			toSend += "\t" + message
 	return toSend
