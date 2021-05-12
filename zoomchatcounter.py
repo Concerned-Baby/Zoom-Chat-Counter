@@ -3,7 +3,7 @@ import datetime
 """
 Author: Spencer Ye
 Last Modified: April 20, 2021
-Version: 1.1.1
+Version: 1.2.0
 """
 
 """
@@ -76,17 +76,28 @@ def getMessages(sender, senderList, entries):
 			senderEntries.append(entries[i])
 	return senderEntries
 
+#Returns a dictionary with 
+#Parameters: A list of who has sent messages
+#Returns: A dictionary that connects all students full names to their attendence names
+def getNameDictionary(senderFullNameList):
+	nameDict = {}
+	for fullName in senderFullNameList:
+		nameDict[getSenderFormattedName(fullName)] = fullName
+	return nameDict
+
 #Formats the dictionary so that it is alphabetized and margined, then adds the related entries
 #Parameters: A dictonary of each sender and how many messages they sent, A list of who sent each message, A list of strings of entries
 #Returns: A string that is ready to be outputted
 def formatDictionary(senderDict, senderList, entryList):
 	toSend = ""
 	maxNameLength = 25
-	for sender in sorted(senderDict.keys()):
-		if (len(sender) > maxNameLength):
-			toSend += getSenderFormattedName(sender)[:maxNameLength] + str(senderDict[sender]) + "\n"
+	namesDict = getNameDictionary(senderList)
+	for attendenceName in sorted(namesDict.keys()):
+		sender = namesDict[attendenceName]
+		if (len(attendenceName) > maxNameLength):
+			toSend += attendenceName[:maxNameLength] + str(senderDict[sender]) + "\n"
 		else:
-			toSend += getSenderFormattedName(sender).ljust(maxNameLength) + str(senderDict[sender]) + "\n"
+			toSend += attendenceName.ljust(maxNameLength) + str(senderDict[sender]) + "\n"
 		for message in getMessages(sender, senderList, entryList):
 			toSend += "\t" + message
 	return toSend
